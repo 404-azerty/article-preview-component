@@ -18,7 +18,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 The only JavaScript you'll need for this challenge is to initiate the share options when someone clicks the share icon.
 
-Your users should be able to: 
+Your users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
 - See the social media share links when they click the share icon
@@ -27,7 +27,7 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ## Where to find everything
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to. 
+Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to.
 
 The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help train your eye to perceive differences in spacings and sizes.
 
@@ -80,3 +80,71 @@ A massive thank you to our community sponsors!
 - [Sizzy](https://bit.ly/fm-sizzy) is an extremely useful browser designed specifically to improve a developer's workflow when building websites. You can fire up multiple device emulators and run them all in sync while building out your web pages. Perfect for helping build fully responsive websites!
 - [Diversify Tech](https://bit.ly/fem-diversify-tech) is an amazing resource for underrepresented people in tech. The site features job listings for anyone seeking new opportunities. The resource section is also full of useful links for you to dive into.
 - [Dracula PRO](https://bit.ly/fem-dracula) is a beautiful dark theme to help keep you focused and productive while you code. The theme isn't just for your editor either. You can also apply it to your most-used apps like your terminal and even Slack!
+
+## Fr version
+
+# Frontend Mentor - Composant d'aperçu d'article
+
+! [Aperçu de la conception pour le défi de codage du composant Aperçu d'article] (./ design / desktop-preview.jpg)
+
+## Bienvenue! 👋
+
+Merci d'avoir vérifié ce défi de codage frontal.
+
+Les défis [Frontend Mentor] (https://www.frontendmentor.io) vous permettent d'améliorer vos compétences dans un flux de travail réel.
+
+** Pour relever ce défi, vous avez besoin d'une compréhension de base du HTML, du CSS et d'un tout petit peu de JavaScript. **
+
+## Le défi
+
+Votre défi consiste à créer ce composant d'aperçu d'article et à le rendre aussi proche que possible de la conception.
+
+Vous pouvez utiliser tous les outils de votre choix pour vous aider à relever le défi. Donc, si vous avez quelque chose que vous aimeriez pratiquer, n'hésitez pas à l'essayer.
+
+Le seul JavaScript dont vous aurez besoin pour ce défi est de lancer les options de partage lorsque quelqu'un clique sur l'icône de partage.
+
+Vos utilisateurs doivent pouvoir:
+
+- Affichez la disposition optimale du composant en fonction de la taille de l'écran de son appareil
+- Voir les liens de partage des réseaux sociaux lorsqu'ils cliquent sur l'icône de partage
+
+Vous voulez du soutien sur le défi? [Rejoignez notre communauté Slack] (https://www.frontendmentor.io/slack) et posez des questions dans le canal ** # help **.
+
+## Où tout trouver
+
+Votre tâche est de construire le projet selon les conceptions du dossier `/ design`. Vous trouverez à la fois une version mobile et une version de bureau du design sur lesquelles travailler.
+
+Les dessins sont au format statique JPG. Cela signifie que vous devrez utiliser votre meilleur jugement pour des styles tels que «font-size», «padding» et «margin». Cela devrait aider votre œil à percevoir les différences d'espacement et de taille.
+
+Si vous souhaitez le fichier Sketch afin d'inspecter la conception plus en détail, il est disponible à l'achat sur la page de défi sur la plate-forme.
+
+Vous trouverez tous les éléments nécessaires dans le dossier `/ images`. Les actifs sont déjà optimisés.
+
+Il existe également un fichier `style-guide.md`, qui contient les informations dont vous aurez besoin, telles que la palette de couleurs et les polices.
+
+## Construire votre projet
+
+N'hésitez pas à utiliser n'importe quel flux de travail avec lequel vous vous sentez à l'aise. Vous trouverez ci-dessous un processus suggéré, mais ne vous sentez pas obligé de suivre ces étapes:
+
+1. Initialisez votre projet en tant que référentiel public sur [GitHub] (https://github.com/). Cela facilitera le partage de votre code avec la communauté si vous avez besoin d'aide. Si vous ne savez pas comment procéder, [lisez attentivement cette ressource Try Git] (https://try.github.io/).
+2. Configurez votre référentiel pour publier votre code sur une URL. Cela sera également utile si vous avez besoin d'aide lors d'un défi, car vous pouvez partager l'URL de votre projet avec l'URL de votre dépôt. Il existe plusieurs façons de procéder, mais nous vous recommandons d'utiliser [Vercel] (https://bit.ly/fem-vercel). Nous avons plus d'informations sur le déploiement de votre projet avec Vercel ci-dessous.
+3. Regardez à travers les conceptions pour commencer à planifier comment vous allez aborder le projet. Cette étape est cruciale pour vous aider à anticiper les classes CSS que vous pourriez créer pour créer des styles réutilisables.
+4. Avant d'ajouter des styles, structurez votre contenu avec du HTML. Écrire d'abord votre code HTML peut vous aider à concentrer votre attention sur la création d'un contenu bien structuré.
+5. Écrivez les styles de base de votre projet, y compris les styles de contenu généraux, tels que «font-family» et «font-size».
+6. Commencez à ajouter des styles en haut de la page et travaillez vers le bas. Ne passez à la section suivante que lorsque vous êtes satisfait d'avoir terminé le domaine sur lequel vous travaillez.
+7. Si vous souhaitez essayer de rendre votre projet totalement réactif, nous vous recommandons de consulter [Sizzy] (https://bit.ly/fm-sizzy). C'est un excellent navigateur qui facilite la visualisation de votre site sur plusieurs appareils.
+
+## Déployer votre projet
+
+Comme mentionné ci-dessus, il existe plusieurs façons d'héberger gratuitement votre projet. Nous vous recommandons d'utiliser [Vercel] (https://bit.ly/fem-vercel) car c'est un service incroyable et extrêmement simple à configurer. Si vous souhaitez utiliser Vercel, voici quelques étapes à suivre pour commencer:
+
+1. [Inscrivez-vous à Vercel] (https://bit.ly/fem-vercel-signup) et suivez le processus d'intégration, en vous assurant que votre compte GitHub est connecté en utilisant leur [Vercel pour GitHub] (https: // vercel .com / docs / v2 / git-integrations / vercel-for-github).
+2. Connectez votre projet à Vercel depuis la [page "Importer un projet"] (https://vercel.com/import), en utilisant le bouton "Depuis le référentiel Git" et en sélectionnant le projet que vous souhaitez déployer.
+3. Une fois connecté, à chaque fois que vous `git push`, Vercel créera un nouveau [déploiement] (https://vercel.com/docs/v2/platform/deployments) et l'URL de déploiement sera affichée sur votre [tableau de bord] (https://vercel.com/dashboard). Vous recevrez également un e-mail pour chaque déploiement avec l'URL.
+
+## Partager votre solution
+
+Vous pouvez partager votre solution à plusieurs endroits:
+
+1. Soumettez-le sur la plateforme afin que les autres utilisateurs voient votre solution sur le site. Voici notre ["Guide complet pour soumettre des solutions"] (https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) pour vous aider à le faire.
+2. Partagez votre page de solution dans le \*\* # fi
