@@ -147,4 +147,21 @@ Comme mentionné ci-dessus, il existe plusieurs façons d'héberger gratuitement
 Vous pouvez partager votre solution à plusieurs endroits:
 
 1. Soumettez-le sur la plateforme afin que les autres utilisateurs voient votre solution sur le site. Voici notre ["Guide complet pour soumettre des solutions"] (https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) pour vous aider à le faire.
-2. Partagez votre page de solution dans le \*\* # fi
+2. Partagez votre page de solution dans le canal ** # projets-terminés ** de la [communauté Slack] (https://www.frontendmentor.io/slack).
+3. Tweetez [@frontendmentor] (https://twitter.com/frontendmentor) et mentionnez ** @ frontendmentor **, y compris le dépôt et les URL en direct dans le tweet. Nous serions ravis de découvrir ce que vous avez construit et de vous aider à le partager.
+
+## Donner des commentaires
+
+Les commentaires sont toujours les bienvenus, donc si vous avez quelque chose à donner sur ce défi, veuillez envoyer un courriel à hi [at] frontendmentor [dot] io.
+
+Ce défi est totalement gratuit. Veuillez le partager avec toute personne qui le trouvera utile pour la pratique.
+
+** Amusez-vous à construire! ** 🚀
+
+## Sponsors communautaires
+
+Un grand merci à nos sponsors communautaires!
+
+- [Sizzy] (https://bit.ly/fm-sizzy) est un navigateur extrêmement utile conçu spécifiquement pour améliorer le flux de travail d'un développeur lors de la création de sites Web. Vous pouvez lancer plusieurs émulateurs de périphériques et les exécuter tous de manière synchronisée lors de la création de vos pages Web. Parfait pour aider à créer des sites Web entièrement réactifs!
+- [Diversify Tech] (https://bit.ly/fem-diversify-tech) est une ressource incroyable pour les personnes sous-représentées dans la technologie. Le site propose des offres d'emploi pour tous ceux qui recherchent de nouvelles opportunités. La section des ressources regorge également de liens utiles dans lesquels vous pourrez vous plonger.
+- [Dracula PRO] (https://bit.ly/fem-dracula) est un beau thème sombre pour vous aider à rester concentré et productif pendant que vous codez. Le thème n'est pas seulement pour votre éditeur. Vous pouvez également l'appliquer à vos applications les plus utilisées comme votre terminal et même Slack!
