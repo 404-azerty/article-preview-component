@@ -128,7 +128,7 @@ ul {
 body {
   margin: 0;
   font-size: 13px;
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
   font-weight: 500;
   color: var(--desaturated-dark-blue);
 }
@@ -148,11 +148,12 @@ article {
   width: 23.4375em;
   border-radius: 1em;
   overflow: hidden;
+  box-shadow: 25px 25px 49px #e3e8ee, -25px -25px 49px #f5fcff;
 }
 
 /* Header Card */
 
-article > img {
+article > figure img {
   object-fit: cover;
   width: 100%;
   height: 100%;
@@ -174,6 +175,8 @@ h2 {
   line-height: 1.78em;
 }
 
+/* Footer Card */
+
 article > footer {
   height: 5em;
   padding: 0 1.9em 0.5em 1.9em;
@@ -182,7 +185,49 @@ article > footer {
   justify-content: space-between;
 }
 
-/* Footer Card */
+article > footer .space {
+  display: flex 1 1;
+}
+
+article .footer-links {
+  background: var(--very-dark-grayish-blue);
+  color: var(--desaturated-dark-blue);
+}
+article .footer-links h3 {
+  margin-right: 1.5em;
+}
+
+article .footer-links a {
+  margin-right: 1.1em;
+}
+
+article .footer-links button {
+  background: var(--desaturated-dark-blue);
+}
+
+article .footer-writer {
+  font-weight: 700;
+  line-height: 1.5em;
+}
+
+article .footer-writer .date {
+  color: var(--grayish-blue);
+}
+
+article .footer-writer .avatar {
+  height: 3.25em;
+  width: 3.25em;
+  border-radius: 3.25em;
+  margin-right: 1.25em;
+}
+
+article > footer:not(.active) {
+  display: none;
+}
+
+article > footer .active {
+  display: flex;
+}
 
 footer button {
   background: var(--light-grayish-blue);
@@ -190,43 +235,14 @@ footer button {
   height: 2.75em;
   width: 2.75em;
   border-radius: 2.75em;
+  margin-left: auto;
 }
 
-footer button .active {
-  background: var(--desaturated-dark-blue);
-  fill: white;
+footer button:hover {
+  cursor: pointer;
 }
 
-footer .content-footer-card-active {
-  display: none;
-  /* background: var(--very-dark-grayish-blue);
-  color: var(--desaturated-dark-blue);
- */
-}
-
-footer .content-footer-card-not-active {
-  display: flex;
-  line-height: 1.5em;
-}
-
-footer .writer {
-  font-weight: 700;
-}
-
-footer .date {
-  color: var(--grayish-blue);
-}
-
-footer .avatar {
-  height: 3.25em;
-  width: 3.25em;
-  border-radius: 3.25em;
-  margin-right: 1.25em;
-}
-
-.content-footer-card {
-  width: 70%;
-}
+/* Footer Page */
 
 footer .attribution {
   font-size: 11px;
